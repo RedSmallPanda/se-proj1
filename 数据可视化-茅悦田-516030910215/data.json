@@ -1,0 +1,346 @@
+{
+  "name": "DData",
+  "description": "DData",
+  "children": [
+    {
+      "name": "CA",
+      "description": "California",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 159},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 654},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 309},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 137},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 58},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 16},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 10},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 8}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 30},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 69},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 22},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 13},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 6},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 1},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 0},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FL",
+      "description": "Florida",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 26},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 139},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 80},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 31},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 21},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 5},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 3},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 1}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 3},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 11},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 8},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 1},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 1},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 0},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 0},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IL",
+      "description": "Illinois",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 44},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 213},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 122},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 70},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 41},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 10},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 7},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 6}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 1  },
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 22},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 13},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 1},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 2},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 1},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 1},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "description": "Massachusetts",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 33},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 185},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 73},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 33},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 19},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 3},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 1},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 1}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 3},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 10},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 5},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 0},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 0},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 0},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 1},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NY",
+      "description": "New York",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 38},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 251},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 213},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 118},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 85},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 22},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 17},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 19}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 4},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 27},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 15},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 19},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 4},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 1},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 2},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OH",
+      "description": "Ohio",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 27},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 180},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 100},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 52},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 22},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 16},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 4},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 4}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 3},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 12},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 7},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 1},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 5},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 2},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 0},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PA",
+      "description": "Pennsylvania",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 48},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 169},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 104},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 37},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 20},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 17},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 4},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 3}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 7},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 9},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 7},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 3},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 2},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 0},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 1},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TX",
+      "description": "Texas",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 80},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 395},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 221},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 77},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 53},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 17},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 7},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 14}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 6},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 17},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 18},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 2},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 1},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 0},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 0},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GA",
+      "description": "Georgia",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 18},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 133},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 81},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 32},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 14},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 8},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 2},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 1}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 2},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 7},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 2},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 3},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 1},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 0},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 0},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MN",
+      "description": "Minnesota",
+      "children": [
+        {
+          "name": "MALE",
+          "description": "male CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 24},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 136},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 48},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 31},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 15},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 5},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 3},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 2}
+          ]
+        },
+        {
+          "name": "FEMALE",
+          "description": "female CEO",
+          "children": [
+            {"name": "0-200", "description": "annual salary between 0 and 200 thousand dollars", "size": 3},
+            {"name": "200-400", "description": "annual salary between 200 and 400 thousand dollars", "size": 28},
+            {"name": "400-600", "description": "annual salary between 400 and 600 thousand dollars", "size": 4},
+            {"name": "600-800", "description": "annual salary between 600 and 800 thousand dollars", "size": 1},
+            {"name": "800-1000", "description": "annual salary between 800 and 1000 thousand dollars", "size": 0},
+            {"name": "1000-1200", "description": "annual salary between 1000 and 1200 thousand dollars", "size": 0},
+            {"name": "1200-1400", "description": "annual salary between 1200 and 1400 thousand dollars", "size": 0},
+            {"name": "over 1400", "description": "annual salary over 1400 thousand dollars", "size": 0}
+          ]
+        }
+      ]
+    }
+  ]
+}
